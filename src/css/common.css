@@ -1,0 +1,24 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+html,body{
+	height: 100%;
+	font-weight: 400;
+	font-size: 14px;
+  	color: #2c3e50;
+}
+a{
+	text-decoration: none;
+}
+ul,ol{
+	list-style: none;
+}
+img{
+	border: none;
+  vertical-align: middle;
+}
+input,textarea,button {
+  outline: none;
+  box-shadow: none;
+}
